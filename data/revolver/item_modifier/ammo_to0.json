@@ -5,8 +5,6 @@
 		  "ammo": 0,
 		  "revo": true
 	  },
-	  "minecraft:enchantments": {
-		  "minecraft:mending": 1
-	  }
+	  "!minecraft:enchantments": {}
   }
 }
