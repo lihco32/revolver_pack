@@ -1,1 +1,1 @@
-give @s minecraft:crossbow[custom_data={revo:1b,ammo:0b}, repair_cost=999, enchantments={levels:{mending:1}}]
+give @s minecraft:crossbow[custom_data={revo:1b,ammo:0b}, repair_cost=999]

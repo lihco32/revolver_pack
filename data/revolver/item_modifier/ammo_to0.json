@@ -4,7 +4,6 @@
 	  "minecraft:custom_data": {
 		  "ammo": 0,
 		  "revo": true
-	  },
-	  "!minecraft:enchantments": {}
+	  }
   }
 }
